@@ -1,0 +1,29 @@
+body{
+   background-color: rgb(60, 78, 94); 
+}
+.blog{
+    background-color: cadetblue;
+    border: 10px solid rgb(196, 224, 38);
+    border-radius: 15px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+}
+.head-title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+.para{
+    text-align: justify;
+    font-size: 20px;
+    
+}
+span{
+    color: red;
+}
+small{
+    color: rgb(233, 118, 23);
+}
